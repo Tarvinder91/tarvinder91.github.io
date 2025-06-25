@@ -2,7 +2,7 @@
 
 This is my personal portfolio website, built using [Hugo](https://gohugo.io/) and the [hugo-resume](https://themes.gohugo.io/themes/hugo-resume) theme. It showcases my experience in cloud infrastructure, DevOps leadership, and AI-driven cloud solutions.
 
-> 🌐 Live Site: [https://your-github-username.github.io](https://your-github-username.github.io)
+> 🌐 Live Site: [https://tarvinder91.github.io](https://tarvinder91.github.io)
 
 ---
 
@@ -88,6 +88,5 @@ Then in GitHub > Settings > Pages:
 
 ## 📫 Contact
 
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 💻 [GitHub](https://github.com/yourusername)
-- 📧 your.email@example.com
+- 🌐 [LinkedIn](https://linkedin.com/in/tarvinder91)
+- 💻 [GitHub](https://github.com/tarvinder91)
