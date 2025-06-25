@@ -36,7 +36,7 @@ sudo apt install hugo       # Debian/Ubuntu
 ### 3. Initialize Hugo Theme
 
 ```bash
-git submodule add https://github.com/resume/resume-theme.git themes/hugo-resume
+git submodule add https://github.com/eddiewebb/hugo-resume.git themes/hugo-resume
 ```
 
 > If using this template, the theme is already included as a submodule.
@@ -82,7 +82,7 @@ Then in GitHub > Settings > Pages:
 ## 🧠 Credits
 
 - Built with [Hugo](https://gohugo.io/)
-- Theme: [hugo-resume](https://github.com/resume/resume-theme)
+- Theme: [hugo-resume](https://github.com/eddiewebb/hugo-resume.git)
 
 ---
 
